@@ -1,4 +1,18 @@
- div.container {
+html {
+	background-image: url(http://popcornhorror.com/wp-content/uploads/2015/07/Massive-B-Horror-Collage-Wallpaper-horror-movies-29491579-2560-1600.jpg);
+    background-size: 100%;
+}
+
+body {
+	width: 70%;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 2.5% 2.5% 0;
+	line-height: 1.8;
+    background-color: antiquewhite
+}
+
+div.container {
             width: 100%;
             border: 1px solid gray;
         }
